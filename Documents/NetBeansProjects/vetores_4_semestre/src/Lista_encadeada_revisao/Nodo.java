@@ -9,3 +9,10 @@ package Lista_encadeada_revisao;
  *
  * @author Alexandre Vale
  */
+public class Nodo {
+    
+    public void teste1(){
+        System.out.println("Essa metodo e de teste");
+        
+    }
+}
