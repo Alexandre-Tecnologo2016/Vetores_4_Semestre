@@ -9,6 +9,3 @@ package Lista_encadeada_revisao;
  *
  * @author Alexandre Vale
  */
-public class Nodo {
-    
-}
